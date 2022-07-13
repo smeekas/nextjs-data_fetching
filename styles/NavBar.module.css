@@ -1,0 +1,15 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    align-items: center;
+    flex-direction: row;
+    background-color: darkcyan;
+    color: white;
+}
+.logo{
+    font-size: 2rem;
+}
+.navBar > div{
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.filter{
+    display: flex;
+    width: 30rem;
+    background-color: aquamarine;
+    margin: 0 auto;
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+.filter >div{
+    flex: 1;
+}
